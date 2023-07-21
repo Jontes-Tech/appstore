@@ -9,6 +9,15 @@ export const seoConfig = {
 	description:
 		"Appstore with apps by Jonte.", // Change this to be your website's description.
 	type: "website",
+	image: {
+		url: "https://picsum.photos/1200/630", // Change this to your website's thumbnail.
+		alt: "Appstore by Jonte.", // Change this to your website's thumbnail description.
+		width: 1200,
+		height: 630
+	},
+	twitter: {
+		card: "summary_large_image"
+	},
 	siteName: "Appstore by Jonte", // Change this to your website's name,
 }
 
