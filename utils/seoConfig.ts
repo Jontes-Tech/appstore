@@ -29,7 +29,7 @@ export const manifest: Partial<ManifestOptions> = {
 	short_name: "Apps", // Change this to your website's short name.
 	description:
 		"Download apps by Jonte", // Change this to your websites description.
-	theme_color: "#30E130", // Change this to your primary color.
+	theme_color: "#374151", // Change this to your primary color.
 	background_color: "#ffffff", // Change this to your background color.
 	display: "minimal-ui",
 	icons: [
